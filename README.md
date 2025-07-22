@@ -83,6 +83,3 @@ Example response:
 
 Contributions, ideas, and feedback are welcome! Whether you're fixing a bug, improving a response, or adding a feature — your input helps MoodBuddy grow.
 
----
-
-Let me know if you'd like a version tailored for deployment documentation, demo walkthroughs, or contributor guides!
