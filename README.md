@@ -54,7 +54,7 @@ Energizing and encouraging, this mode is best for celebrating wins or motivating
 
 A warm and caring tone for emotional support.
 
-[Gentle friend screen](https://github.com/Piyushthool/Mood-Buddy-Project-with-Open-AI/blob/main/1.Gentle%20friend%20screen.png)
+![Gentle friend screen](https://github.com/Piyushthool/Mood-Buddy-Project-with-Open-AI/blob/main/1.Gentle%20friend%20screen.png)
 
 ### 💙 Calm Therapist
 
